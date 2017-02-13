@@ -1,0 +1,23 @@
+{
+  "name": "npm-sample",
+  "version": "0.0.1",
+  "description": "A sample npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murilobeltrame/npm-sample.git"
+  },
+  "keywords": [
+    "npm",
+    "sample"
+  ],
+  "author": "Murilo Beltrame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murilobeltrame/npm-sample/issues"
+  },
+  "homepage": "https://github.com/murilobeltrame/npm-sample#readme"
+}
